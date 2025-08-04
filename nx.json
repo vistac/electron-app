@@ -66,5 +66,6 @@
       "style": "css",
       "unitTestRunner": "jest"
     }
-  }
+  },
+  "defaultProject": "electron-gui"
 }
