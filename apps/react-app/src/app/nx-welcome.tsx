@@ -311,6 +311,7 @@ export function NxWelcome({ title }: { title: string }) {
       border-radius: 0.375rem;
       flex-shrink: 0;
       width: 3rem;
+
     }
     #nx-cloud > div h2 {
       font-size: 1.125rem;
