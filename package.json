@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
+    "nxe:run:react-app": "nx run react-app:serve",
     "postinstall": "electron-builder install-app-deps",
     "nxe:build:frontend": "nx build frontend-gui",
     "nxe:build:backend": "nx build electron-gui",
