@@ -22,6 +22,8 @@
     "@angular/platform-browser": "~20.1.0",
     "@angular/platform-browser-dynamic": "~20.1.0",
     "@angular/router": "~20.1.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
     "rxjs": "~7.8.0",
     "zone.js": "~0.15.0"
   },
@@ -40,6 +42,7 @@
     "@nx/jest": "21.3.11",
     "@nx/js": "21.3.11",
     "@nx/playwright": "21.3.11",
+    "@nx/react": "^21.3.11",
     "@nx/web": "21.3.11",
     "@nx/workspace": "21.3.11",
     "@playwright/test": "^1.36.0",
